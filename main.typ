@@ -2,8 +2,8 @@
 #import "phonology-list.typ": data;
 #import "tools/prelude.typ": xs;
 
-#include "preface.typ";
-#pagebreak();
+// #include "preface.typ";
+// #pagebreak();
 
 #set page(
   width: 595.35pt,
