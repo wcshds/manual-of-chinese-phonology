@@ -20,7 +20,7 @@
   region: "cn",
   size: 10.7pt,
 )
-#show regex("[“”。：，、《》（）「」]+"): it => {
+#show regex("[“”。：，、《》（）「」·]+"): it => {
   set text(font: "Simsun")
   it
 }
@@ -96,7 +96,7 @@
     h(0.3em);
     {
       let sup-xs(it) = {
-        if it.match(regex("^(a|e|i|o|u|g|n|d|l|M|)$")) != none {
+        if it.match(regex("^(a|e|i|o|u|g|n|d|l|M|N)$")) != none {
           box(move(dx: 0em, dy: 0.1em, super(xs(it))));
         } else {
           it;
@@ -110,6 +110,7 @@
       show "宵e": [宵#sup-xs("e")];
       show "宵o": [宵#sup-xs("o")];
       show "真n": [真#sup-xs("n")];
+      show "真N": [真#sup-xs("N")];
       show "物u": [物#sup-xs("u")];
       show "歌a": [歌#sup-xs("a")];
       show "歌e": [歌#sup-xs("e")];
