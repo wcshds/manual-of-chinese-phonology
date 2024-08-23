@@ -12,6 +12,8 @@
 ```
 git clone https://github.com/wcshds/manual-of-chinese-phonology.git
 
+cd ./manual-of-chinese-phonology
+
 typst compile --font-path ./font ./main.typ 漢語古音手冊字表.pdf
 ```
 
