@@ -1,0 +1,1064 @@
+[
+    {
+        "X-SAMPA": "~",
+        "IPA": "\u0303",
+        "Description": "nasalization",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "}",
+        "IPA": "\u0289",
+        "Description": "close central rounded vowel",
+        "Examples": "Swedish sju [x\\}:]; AuE/NZE boot [b}:t]"
+    },
+    {
+        "X-SAMPA": "||",
+        "IPA": "\u2016",
+        "Description": "major (intonation) group",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "|\\|\\",
+        "IPA": "\u01c1",
+        "Description": "alveolar lateral click",
+        "Examples": "Zulu xoxa (to converse) [|\\|\\O:|\\|\\a]"
+    },
+    {
+        "X-SAMPA": "|\\",
+        "IPA": "\u01c0",
+        "Description": "dental click",
+        "Examples": "Zulu icici (earring) [i:|\\i:|\\i]"
+    },
+    {
+        "X-SAMPA": "|",
+        "IPA": "|",
+        "Description": "minor (foot) group",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "{",
+        "IPA": "\u00e6",
+        "Description": "near-open front unrounded vowel",
+        "Examples": "English trap [tr\\{p]"
+    },
+    {
+        "X-SAMPA": "z`",
+        "IPA": "\u0290",
+        "Description": "voiced retroflex fricative",
+        "Examples": "Mandarin Chinese rang [z`aN]"
+    },
+    {
+        "X-SAMPA": "z\\",
+        "IPA": "\u0291",
+        "Description": "voiced alveolo-palatal fricative",
+        "Examples": "Polish \u017arebak [\"z\\rEbak]"
+    },
+    {
+        "X-SAMPA": "z",
+        "IPA": "z",
+        "Description": "voiced alveolar fricative",
+        "Examples": "English zoo [zu:], French azote [a\"zOt]"
+    },
+    {
+        "X-SAMPA": "y",
+        "IPA": "y",
+        "Description": "close front rounded vowel",
+        "Examples": "French tu [ty] German \u00fcber [\"y:b6]"
+    },
+    {
+        "X-SAMPA": "x\\",
+        "IPA": "\u0267",
+        "Description": "voiceless palatal-velar fricative",
+        "Examples": "Swedish sjal [x\\A:l]"
+    },
+    {
+        "X-SAMPA": "x",
+        "IPA": "x",
+        "Description": "voiceless velar fricative",
+        "Examples": "Scots loch [lOx] or [5Ox]; German Buch, Dach; Spanish caja, gesti\u00f3n"
+    },
+    {
+        "X-SAMPA": "w",
+        "IPA": "w",
+        "Description": "labial-velar approximant",
+        "Examples": "English west [wEst], French oui [wi]"
+    },
+    {
+        "X-SAMPA": "v\\",
+        "IPA": "\u028b",
+        "Description": "labiodental approximant",
+        "Examples": "Dutch west [v\\Est]"
+    },
+    {
+        "X-SAMPA": "v",
+        "IPA": "v",
+        "Description": "voiced labiodental fricative",
+        "Examples": "English vest [vEst], French voix [vwa]"
+    },
+    {
+        "X-SAMPA": "u",
+        "IPA": "u",
+        "Description": "close back rounded vowel",
+        "Examples": "English boom [bu:m], Spanish su [su]"
+    },
+    {
+        "X-SAMPA": "t`",
+        "IPA": "\u0288",
+        "Description": "voiceless retroflex plosive",
+        "Examples": "Swedish m\u00f6rt [m2t`]"
+    },
+    {
+        "X-SAMPA": "t",
+        "IPA": "t",
+        "Description": "voiceless alveolar plosive",
+        "Examples": "English stew [stju:], French rat\u00e9 [Ra\"te]"
+    },
+    {
+        "X-SAMPA": "s`",
+        "IPA": "\u0282",
+        "Description": "voiceless retroflex fricative",
+        "Examples": "Swedish mars [mas`]"
+    },
+    {
+        "X-SAMPA": "s\\",
+        "IPA": "\u0255",
+        "Description": "voiceless alveolo-palatal fricative",
+        "Examples": "Polish \u015bwierszcz [s\\v'ers`ts`]"
+    },
+    {
+        "X-SAMPA": "s",
+        "IPA": "s",
+        "Description": "voiceless alveolar fricative",
+        "Examples": "English seem [si:m], French session [sE\"sjO~]"
+    },
+    {
+        "X-SAMPA": "r`",
+        "IPA": "\u027d",
+        "Description": "retroflex flap",
+        "Examples": "Bengali gari [gar`i:]"
+    },
+    {
+        "X-SAMPA": "r\\`",
+        "IPA": "\u027b",
+        "Description": "retroflex approximant",
+        "Examples": "Malayalam \u0d35\u0d34\u0d3f [\"v@r\\`i]"
+    },
+    {
+        "X-SAMPA": "r\\",
+        "IPA": "\u0279",
+        "Description": "alveolar approximant",
+        "Examples": "English red [r\\Ed]"
+    },
+    {
+        "X-SAMPA": "r",
+        "IPA": "r",
+        "Description": "alveolar trill",
+        "Examples": "Spanish perro [\"pero]"
+    },
+    {
+        "X-SAMPA": "q",
+        "IPA": "q",
+        "Description": "voiceless uvular plosive",
+        "Examples": "Arabic qasbah [\"qQs_Gba]"
+    },
+    {
+        "X-SAMPA": "p\\",
+        "IPA": "\u0278",
+        "Description": "voiceless bilabial fricative",
+        "Examples": "Japanese fuku [p\\M_0kM]"
+    },
+    {
+        "X-SAMPA": "p",
+        "IPA": "p",
+        "Description": "voiceless bilabial plosive",
+        "Examples": "English speak [spik], French pose [poz], Spanish perro [\"pero]"
+    },
+    {
+        "X-SAMPA": "o",
+        "IPA": "o",
+        "Description": "close-mid back rounded vowel",
+        "Examples": "French veau [vo]"
+    },
+    {
+        "X-SAMPA": "n`",
+        "IPA": "\u0273",
+        "Description": "retroflex nasal",
+        "Examples": "Swedish h\u00f6rn [h2:n`]"
+    },
+    {
+        "X-SAMPA": "n",
+        "IPA": "n",
+        "Description": "alveolar nasal",
+        "Examples": "English nap [n{p], French non [nO~]"
+    },
+    {
+        "X-SAMPA": "m",
+        "IPA": "m",
+        "Description": "bilabial nasal",
+        "Examples": "English mouse [maUs], French homme [Om]"
+    },
+    {
+        "X-SAMPA": "l`",
+        "IPA": "\u026d",
+        "Description": "retroflex lateral approximant",
+        "Examples": "Svealand Swedish sorl [so:l`]"
+    },
+    {
+        "X-SAMPA": "l\\",
+        "IPA": "\u027a",
+        "Description": "alveolar lateral flap",
+        "Examples": "Wayuu p\u00fc\u00fcl\u00fck\u00fc [pM:l\\MkM]"
+    },
+    {
+        "X-SAMPA": "l",
+        "IPA": "l",
+        "Description": "alveolar lateral approximant",
+        "Examples": "English lay [leI], French mal [mal]"
+    },
+    {
+        "X-SAMPA": "k",
+        "IPA": "k",
+        "Description": "voiceless velar plosive",
+        "Examples": "English skip [skIp], Spanish carro [\"karo]"
+    },
+    {
+        "X-SAMPA": "j\\",
+        "IPA": "\u029d",
+        "Description": "voiced palatal fricative",
+        "Examples": "Greek \u03b3\u03b5\u03b9\u03ac [j\\a]"
+    },
+    {
+        "X-SAMPA": "j",
+        "IPA": "j",
+        "Description": "palatal approximant",
+        "Examples": "English yes [jEs], French yeux [j2]"
+    },
+    {
+        "X-SAMPA": "i",
+        "IPA": "i",
+        "Description": "close front unrounded vowel",
+        "Examples": "English be [bi:], French oui [wi], Spanish si [si]"
+    },
+    {
+        "X-SAMPA": "h\\",
+        "IPA": "\u0266",
+        "Description": "voiced glottal fricative",
+        "Examples": "Czech hrad [h\\rat]"
+    },
+    {
+        "X-SAMPA": "h",
+        "IPA": "h",
+        "Description": "voiceless glottal fricative",
+        "Examples": "English house [haUs]"
+    },
+    {
+        "X-SAMPA": "g_<",
+        "IPA": "\u0260",
+        "Description": "voiced velar implosive",
+        "Examples": "Sindhi \u0260\u0259ro [g_<@ro]"
+    },
+    {
+        "X-SAMPA": "g",
+        "IPA": "\u0261",
+        "Description": "voiced velar plosive",
+        "Examples": "English game [geIm], French longue [lO~g]"
+    },
+    {
+        "X-SAMPA": "f",
+        "IPA": "f",
+        "Description": "voiceless labiodental fricative",
+        "Examples": "English five [faIv], French femme [fam]"
+    },
+    {
+        "X-SAMPA": "e",
+        "IPA": "e",
+        "Description": "close-mid front unrounded vowel",
+        "Examples": "French bl\u00e9 [ble]"
+    },
+    {
+        "X-SAMPA": "d`",
+        "IPA": "\u0256",
+        "Description": "voiced retroflex plosive",
+        "Examples": "Swedish hord [hu:d`]"
+    },
+    {
+        "X-SAMPA": "d_<",
+        "IPA": "\u0257",
+        "Description": "voiced alveolar implosive",
+        "Examples": "Sindhi \u0257ar\u028a [d_<arU]"
+    },
+    {
+        "X-SAMPA": "d",
+        "IPA": "d",
+        "Description": "voiced alveolar plosive",
+        "Examples": "English dig [dIg], French doigt [dwa]"
+    },
+    {
+        "X-SAMPA": "c",
+        "IPA": "c",
+        "Description": "voiceless palatal plosive",
+        "Examples": "Hungarian latyak [\"lQcQk]"
+    },
+    {
+        "X-SAMPA": "b_<",
+        "IPA": "\u0253",
+        "Description": "voiced bilabial implosive",
+        "Examples": "Sindhi \u0253ar\u028a [b_<arU]"
+    },
+    {
+        "X-SAMPA": "b",
+        "IPA": "b",
+        "Description": "voiced bilabial plosive",
+        "Examples": "English bed [bEd], French bon [bO~]"
+    },
+    {
+        "X-SAMPA": "a",
+        "IPA": "a",
+        "Description": "open front unrounded vowel",
+        "Examples": "French dame [dam]"
+    },
+    {
+        "X-SAMPA": "`",
+        "IPA": "\u02de",
+        "Description": "rhotacization in vowels, retroflexion in consonants (IPA uses separate symbols for consonants, see t` for an example)",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_~",
+        "IPA": "\u0303",
+        "Description": "nasalization",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_}",
+        "IPA": "\u031a",
+        "Description": "no audible release",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_x",
+        "IPA": "\u033d",
+        "Description": "mid-centralized",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_w",
+        "IPA": "\u02b7",
+        "Description": "labialized",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_v",
+        "IPA": "\u032c",
+        "Description": "voiced",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_t",
+        "IPA": "\u0324",
+        "Description": "breathy voice",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_r",
+        "IPA": "\u031d",
+        "Description": "raised",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_q",
+        "IPA": "\u0319",
+        "Description": "retracted tongue root",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_o",
+        "IPA": "\u031e",
+        "Description": "lowered",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_n",
+        "IPA": "\u207f",
+        "Description": "nasal release",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_m",
+        "IPA": "\u033b",
+        "Description": "laminal",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_l",
+        "IPA": "\u02e1",
+        "Description": "lateral release",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_k",
+        "IPA": "\u0330",
+        "Description": "creaky voice",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_j",
+        "IPA": "\u02b2",
+        "Description": "palatalized",
+        "Examples": "Russian \u0417\u0435\u043c\u043b\u044f (Earth) [z_jI\"ml_ja]"
+    },
+    {
+        "X-SAMPA": "_h",
+        "IPA": "\u02b0",
+        "Description": "aspirated",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_e",
+        "IPA": "\u0334",
+        "Description": "velarized or pharyngealized; also see 5",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_d",
+        "IPA": "\u032a",
+        "Description": "dental",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_c",
+        "IPA": "\u031c",
+        "Description": "less rounded",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_a",
+        "IPA": "\u033a",
+        "Description": "apical",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_^",
+        "IPA": "\u032f",
+        "Description": "non-syllabic",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_\\",
+        "IPA": "\u0302",
+        "Description": "falling tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_X",
+        "IPA": "\u0306",
+        "Description": "extra-short",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_T",
+        "IPA": "\u030b",
+        "Description": "extra high tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_R_F",
+        "IPA": "\u1dc8",
+        "Description": "rising falling tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_R",
+        "IPA": "\u030c",
+        "Description": "rising tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_O",
+        "IPA": "\u0339",
+        "Description": "more rounded",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_N",
+        "IPA": "\u033c",
+        "Description": "linguolabial",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_M",
+        "IPA": "\u0304",
+        "Description": "mid tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_L",
+        "IPA": "\u0300",
+        "Description": "low tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_H_T",
+        "IPA": "\u1dc4",
+        "Description": "high rising tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_H",
+        "IPA": "\u0301",
+        "Description": "high tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_G",
+        "IPA": "\u02e0",
+        "Description": "velarized",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_F",
+        "IPA": "\u0302",
+        "Description": "falling tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_B_L",
+        "IPA": "\u1dc5",
+        "Description": "low rising tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_B",
+        "IPA": "\u030f",
+        "Description": "extra low tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_A",
+        "IPA": "\u0318",
+        "Description": "advanced tongue root",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_?\\",
+        "IPA": "\u02e4",
+        "Description": "pharyngealized",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_>",
+        "IPA": "\u02bc",
+        "Description": "ejective",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_=",
+        "IPA": "\u0329",
+        "Description": "syllabic",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_<",
+        "IPA": "",
+        "Description": "implosive (IPA uses separate symbols for implosives)",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_0",
+        "IPA": "\u0325",
+        "Description": "voiceless",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_/",
+        "IPA": "\u030c",
+        "Description": "rising tone",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_-",
+        "IPA": "\u0320",
+        "Description": "retracted",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_+",
+        "IPA": "\u031f",
+        "Description": "advanced",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_\"",
+        "IPA": "\u0308",
+        "Description": "centralized",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "^",
+        "IPA": "\ua71b",
+        "Description": "upstep",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "Z",
+        "IPA": "\u0292",
+        "Description": "voiced postalveolar fricative",
+        "Examples": "English vision [\"vIZ@n]"
+    },
+    {
+        "X-SAMPA": "Y",
+        "IPA": "\u028f",
+        "Description": "near-close front rounded vowel",
+        "Examples": "German h\u00fcbsch [hYpS]"
+    },
+    {
+        "X-SAMPA": "X\\",
+        "IPA": "\u0127",
+        "Description": "voiceless pharyngeal fricative",
+        "Examples": "Arabic \u062d \u1e25\u0101\u02be [X\\A:]"
+    },
+    {
+        "X-SAMPA": "X",
+        "IPA": "\u03c7",
+        "Description": "voiceless uvular fricative",
+        "Examples": "Klallam s\u03c7a\u0294q\u02b7a\u0294 [sXa?q_wa?]"
+    },
+    {
+        "X-SAMPA": "W",
+        "IPA": "\u028d",
+        "Description": "voiceless labial-velar fricative",
+        "Examples": "Scots when [WEn]"
+    },
+    {
+        "X-SAMPA": "V",
+        "IPA": "\u028c",
+        "Description": "open-mid back unrounded vowel",
+        "Examples": "Scottish English strut [str\\Vt]"
+    },
+    {
+        "X-SAMPA": "U\\",
+        "IPA": "\u1d7f",
+        "Description": "near-close central rounded vowel (non-IPA)",
+        "Examples": "English euphoria [jU\\\"fO@r\\i@]"
+    },
+    {
+        "X-SAMPA": "U",
+        "IPA": "\u028a",
+        "Description": "near-close back rounded vowel",
+        "Examples": "English foot [fUt]"
+    },
+    {
+        "X-SAMPA": "T",
+        "IPA": "\u03b8",
+        "Description": "voiceless dental fricative",
+        "Examples": "English thin [TIn]"
+    },
+    {
+        "X-SAMPA": "S",
+        "IPA": "\u0283",
+        "Description": "voiceless postalveolar fricative",
+        "Examples": "English ship [SIp]"
+    },
+    {
+        "X-SAMPA": "R\\",
+        "IPA": "\u0280",
+        "Description": "uvular trill",
+        "Examples": "French roi [R\\wa]"
+    },
+    {
+        "X-SAMPA": "R",
+        "IPA": "\u0281",
+        "Description": "voiced uvular fricative",
+        "Examples": "German rein [RaIn]"
+    },
+    {
+        "X-SAMPA": "Q",
+        "IPA": "\u0252",
+        "Description": "open back rounded vowel",
+        "Examples": "RP lot [lQt]"
+    },
+    {
+        "X-SAMPA": "P",
+        "IPA": "\u028b",
+        "Description": "labiodental approximant",
+        "Examples": "Dutch west [PEst]"
+    },
+    {
+        "X-SAMPA": "O\\",
+        "IPA": "\u0298",
+        "Description": "bilabial click",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "O",
+        "IPA": "\u0254",
+        "Description": "open-mid back rounded vowel",
+        "Examples": "American English off [O:f]"
+    },
+    {
+        "X-SAMPA": "N\\",
+        "IPA": "\u0274",
+        "Description": "uvular nasal",
+        "Examples": "Japanese \u3055\u3093 san [saN\\]"
+    },
+    {
+        "X-SAMPA": "N",
+        "IPA": "\u014b",
+        "Description": "velar nasal",
+        "Examples": "English thing [TIN]"
+    },
+    {
+        "X-SAMPA": "M\\",
+        "IPA": "\u0270",
+        "Description": "velar approximant",
+        "Examples": "Spanish fuego [\"fweM\\o]"
+    },
+    {
+        "X-SAMPA": "M",
+        "IPA": "\u026f",
+        "Description": "close back unrounded vowel",
+        "Examples": "Korean \uc74c\uc2dd [M:ms\\_hik_}]"
+    },
+    {
+        "X-SAMPA": "L\\",
+        "IPA": "\u029f",
+        "Description": "velar lateral approximant",
+        "Examples": "Korean \ub2ec\uad6c\uc9c0 [t6L\\gudz\\i]"
+    },
+    {
+        "X-SAMPA": "L",
+        "IPA": "\u028e",
+        "Description": "palatal lateral approximant",
+        "Examples": "Italian famiglia [fa\"miLLa], Castilian: llamar [La\"mar]"
+    },
+    {
+        "X-SAMPA": "K\\",
+        "IPA": "\u026e",
+        "Description": "voiced alveolar lateral fricative",
+        "Examples": "Mongolian \u0434\u043e\u043b\u043e\u043e [tOK\\O:]"
+    },
+    {
+        "X-SAMPA": "K",
+        "IPA": "\u026c",
+        "Description": "voiceless alveolar lateral fricative",
+        "Examples": "Welsh llaw [KaU]"
+    },
+    {
+        "X-SAMPA": "J\\_<",
+        "IPA": "\u0284",
+        "Description": "voiced palatal implosive",
+        "Examples": "Sindhi \u0284aro [J\\_<aro]"
+    },
+    {
+        "X-SAMPA": "J\\",
+        "IPA": "\u025f",
+        "Description": "voiced palatal plosive",
+        "Examples": "Hungarian egy [EJ\\]"
+    },
+    {
+        "X-SAMPA": "J",
+        "IPA": "\u0272",
+        "Description": "palatal nasal",
+        "Examples": "Spanish a\u00f1o [\"aJo], English canyon [\"k{J@n] (broad transcription uses [-nj-])"
+    },
+    {
+        "X-SAMPA": "I\\",
+        "IPA": "\u1d7b",
+        "Description": "near-close central unrounded vowel (non-IPA)",
+        "Examples": "Polish ryba [rI\\bA]"
+    },
+    {
+        "X-SAMPA": "I",
+        "IPA": "\u026a",
+        "Description": "near-close front unrounded vowel",
+        "Examples": "English kit [kIt]"
+    },
+    {
+        "X-SAMPA": "H\\",
+        "IPA": "\u029c",
+        "Description": "voiceless epiglottal fricative",
+        "Examples": "Agul \u043c\u0435\u0445\u04c0 [mEH\\]"
+    },
+    {
+        "X-SAMPA": "H",
+        "IPA": "\u0265",
+        "Description": "labial-palatal approximant",
+        "Examples": "French huit [Hit]"
+    },
+    {
+        "X-SAMPA": "G\\_<",
+        "IPA": "\u029b",
+        "Description": "voiced uvular implosive",
+        "Examples": "Mam \u029ba [G\\_<a]"
+    },
+    {
+        "X-SAMPA": "G\\",
+        "IPA": "\u0262",
+        "Description": "voiced uvular plosive",
+        "Examples": "Inuktitut nirivvik [niG\\ivvik]"
+    },
+    {
+        "X-SAMPA": "G",
+        "IPA": "\u0263",
+        "Description": "voiced velar fricative",
+        "Examples": "Greek \u03b3\u03c9\u03bd\u03af\u03b1 [Go\"nia]"
+    },
+    {
+        "X-SAMPA": "F",
+        "IPA": "\u0271",
+        "Description": "labiodental nasal",
+        "Examples": "English emphasis [\"EFf@sIs] (spoken quickly, otherwise uses [Emf-])"
+    },
+    {
+        "X-SAMPA": "E",
+        "IPA": "\u025b",
+        "Description": "open-mid front unrounded vowel",
+        "Examples": "French m\u00eame [mE:m], English met [mEt] (RP and Gen.Am.)"
+    },
+    {
+        "X-SAMPA": "D",
+        "IPA": "\u00f0",
+        "Description": "voiced dental fricative",
+        "Examples": "English then [DEn]"
+    },
+    {
+        "X-SAMPA": "C",
+        "IPA": "\u00e7",
+        "Description": "voiceless palatal fricative",
+        "Examples": "German ich [IC], English human [\"Cjum@n] (broad transcription uses [hj-])"
+    },
+    {
+        "X-SAMPA": "B\\",
+        "IPA": "\u0299",
+        "Description": "bilabial trill",
+        "Examples": "Reminiscent of shivering (\"brrr\")"
+    },
+    {
+        "X-SAMPA": "B",
+        "IPA": "\u03b2",
+        "Description": "voiced bilabial fricative",
+        "Examples": "Spanish lavar [la\"Ba4]"
+    },
+    {
+        "X-SAMPA": "A",
+        "IPA": "\u0251",
+        "Description": "open back unrounded vowel",
+        "Examples": "English father [\"fA:D@(r\\)] (RP and Gen.Am.)"
+    },
+    {
+        "X-SAMPA": "@`",
+        "IPA": "\u025a",
+        "Description": "r-coloured schwa",
+        "Examples": "American English color [\"kVl@`]"
+    },
+    {
+        "X-SAMPA": "@\\",
+        "IPA": "\u0258",
+        "Description": "close-mid central unrounded vowel",
+        "Examples": "Paic\u0129 k\u0258\u0304\u027e\u0258 [k@\\_M4@\\_M]"
+    },
+    {
+        "X-SAMPA": "@",
+        "IPA": "\u0259",
+        "Description": "schwa",
+        "Examples": "English arena [@\"r\\i:n@]"
+    },
+    {
+        "X-SAMPA": "?\\",
+        "IPA": "\u0295",
+        "Description": "voiced pharyngeal fricative",
+        "Examples": "Arabic \u0639 \u02bfayn [?\\Ajn]"
+    },
+    {
+        "X-SAMPA": "?",
+        "IPA": "\u0294",
+        "Description": "glottal stop",
+        "Examples": "Cockney English bottle [\"bQ?o]"
+    },
+    {
+        "X-SAMPA": ">\\",
+        "IPA": "\u02a1",
+        "Description": "epiglottal plosive",
+        "Examples": "Archi \u0433\u04c0\u0430\u0440\u0437 (complaint) [>\\arz]"
+    },
+    {
+        "X-SAMPA": ">",
+        "IPA": "\u27e9",
+        "Description": "end nonsegmental notation",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "=\\",
+        "IPA": "\u01c2",
+        "Description": "palatal click",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "=",
+        "IPA": "\u0329",
+        "Description": "syllabic",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "<\\",
+        "IPA": "\u02a2",
+        "Description": "voiced epiglottal fricative",
+        "Examples": "Siwi ar\u02e4b\u02e4\u0259\u02a2a (four) [ar_?\\b_?\\@<\\a]"
+    },
+    {
+        "X-SAMPA": "<R>",
+        "IPA": "\u2197",
+        "Description": "global rise",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "<F>",
+        "IPA": "\u2198",
+        "Description": "global fall",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "<",
+        "IPA": "\u27e8",
+        "Description": "begin nonsegmental notation, e.g., SAMPROSA[3]",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": ":\\",
+        "IPA": "\u02d1",
+        "Description": "half long",
+        "Examples": "Estonian differentiates three vowel lengths"
+    },
+    {
+        "X-SAMPA": ":",
+        "IPA": "\u02d0",
+        "Description": "long",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "9",
+        "IPA": "\u0153",
+        "Description": "open-mid front rounded vowel",
+        "Examples": "French neuf [n9f], Danish dr\u00f8mme [dR9m@]"
+    },
+    {
+        "X-SAMPA": "8",
+        "IPA": "\u0275",
+        "Description": "close-mid central rounded vowel",
+        "Examples": "Swedish buss [b8s]"
+    },
+    {
+        "X-SAMPA": "7",
+        "IPA": "\u0264",
+        "Description": "close-mid back unrounded vowel",
+        "Examples": "Estonian k\u00f5ik [k7ik], Vietnamese m\u01a1 [m7_M]"
+    },
+    {
+        "X-SAMPA": "6",
+        "IPA": "\u0250",
+        "Description": "near-open central vowel",
+        "Examples": "German besser [\"bEs6], Australian English mud [m6d]"
+    },
+    {
+        "X-SAMPA": "5",
+        "IPA": "\u026b",
+        "Description": "velarized alveolar lateral approximant; also see _e",
+        "Examples": "English milk [mI5k], Portuguese livro [\"5iv4u]"
+    },
+    {
+        "X-SAMPA": "4",
+        "IPA": "\u027e",
+        "Description": "alveolar flap",
+        "Examples": "Spanish pero [\"pe4o], American English better [\"bE4@`]"
+    },
+    {
+        "X-SAMPA": "3\\",
+        "IPA": "\u025e",
+        "Description": "open-mid central rounded vowel",
+        "Examples": "Irish tomhail [t3\\:l']"
+    },
+    {
+        "X-SAMPA": "3",
+        "IPA": "\u025c",
+        "Description": "open-mid central unrounded vowel",
+        "Examples": "English nurse [n3:s] (RP) or [n3`s] (Gen.Am.)"
+    },
+    {
+        "X-SAMPA": "2",
+        "IPA": "\u00f8",
+        "Description": "close-mid front rounded vowel",
+        "Examples": "Danish k\u00f8be [\"k2:b@], French deux [d2]"
+    },
+    {
+        "X-SAMPA": "1",
+        "IPA": "\u0268",
+        "Description": "close central unrounded vowel",
+        "Examples": "Welsh tu [t1], American English rose's [\"r\\oUz1z]"
+    },
+    {
+        "X-SAMPA": "/",
+        "IPA": "/",
+        "Description": "(a) French vowel archiphonemes or indeterminacies (b) delimiter of phonemic transcriptions",
+        "Examples": "maison /mE/zO~/"
+    },
+    {
+        "X-SAMPA": ".",
+        "IPA": ".",
+        "Description": "syllable break",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "-\\",
+        "IPA": "\u203f",
+        "Description": "linking mark",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "-",
+        "IPA": "",
+        "Description": "separator",
+        "Examples": "Polish trzy [t-S1] vs. czy [tS1] (affricate)"
+    },
+    {
+        "X-SAMPA": "*",
+        "IPA": "",
+        "Description": "undefined escape character, SAMPA's \"conjunctor\"",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "'",
+        "IPA": "\u02b2",
+        "Description": "palatalized",
+        "Examples": "Russian \u0417\u0435\u043c\u043b\u044f (Earth) [z'I\"ml'a]"
+    },
+    {
+        "X-SAMPA": "&",
+        "IPA": "\u0276",
+        "Description": "open front rounded vowel",
+        "Examples": "Swedish sk\u00f6rd [x\\&d`]"
+    },
+    {
+        "X-SAMPA": "%",
+        "IPA": "\u02cc",
+        "Description": "secondary stress",
+        "Examples": "American English pronunciation [pr\\@%nVn.si.\"eI.S@n]"
+    },
+    {
+        "X-SAMPA": "\"",
+        "IPA": "\u02c8",
+        "Description": "primary stress",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "!\\",
+        "IPA": "\u01c3",
+        "Description": "postalveolar click",
+        "Examples": "Zulu iqaqa (polecat) [i:!\\a:!\\a]"
+    },
+    {
+        "X-SAMPA": "!",
+        "IPA": "\ua71c",
+        "Description": "downstep",
+        "Examples": ""
+    }
+]

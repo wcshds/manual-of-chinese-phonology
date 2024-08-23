@@ -1,0 +1,152 @@
+[
+    {
+        "X-SAMPA": "_r_t",
+        "IPA": "ʳ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_M_t",
+        "IPA": "ᵚ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_@_t",
+        "IPA": "ᵊ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_1_t",
+        "IPA": "ᶤ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_C_o",
+        "IPA": "C",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_L_o",
+        "IPA": "L",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_A_o",
+        "IPA": "A",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_T_o",
+        "IPA": "T",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_E_s",
+        "IPA": "ᴇ",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_0_o",
+        "IPA": "0",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_1_o",
+        "IPA": "1",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_2_o",
+        "IPA": "2",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_3_o",
+        "IPA": "3",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_4_o",
+        "IPA": "4",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_5_o",
+        "IPA": "5",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_6_o",
+        "IPA": "6",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_7_o",
+        "IPA": "7",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_8_o",
+        "IPA": "8",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_9_o",
+        "IPA": "9",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_-_t",
+        "IPA": "⁻",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_-_o",
+        "IPA": "-",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_*_o",
+        "IPA": "*",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_*_g",
+        "IPA": " ⃰",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_*_t",
+        "IPA": "⃰",
+        "Description": "custom addition ",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "N_0",
+        "IPA": "ŋ̊",
+        "Description": "custom addition ",
+        "Examples": ""
+    }
+]
