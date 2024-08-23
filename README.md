@@ -7,7 +7,7 @@
 
 文檔的編譯需要使用 Typst，如尚未安裝，可參考[官方指引](https://github.com/typst/typst?tab=readme-ov-file#installation)進行安裝。
 
-安裝完成 Typst 後，依次在終端中輸入如下命令，即可生成PDF文檔。
+安裝完成 Typst 後，依次在終端中輸入如下命令，即可生成 PDF 文檔。
 
 ```
 git clone https://github.com/wcshds/manual-of-chinese-phonology.git
