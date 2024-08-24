@@ -122,6 +122,7 @@
       show "文M": [文#sup-xs("M")];
       show "微M": [微#sup-xs("M")];
       show "脂l": [脂#sup-xs("l")];
+      show "談o": [談#sup-xs("o")];
 
       box(width: 1.5em, 韻部);
     };
