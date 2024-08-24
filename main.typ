@@ -104,6 +104,7 @@
       };
       show "元a": [元#sup-xs("a")];
       show "元e": [元#sup-xs("e")];
+      show "元o": [元#sup-xs("o")];
       show "月a": [月#sup-xs("a")];
       show "月e": [月#sup-xs("e")];
       show "月o": [月#sup-xs("o")];
@@ -115,10 +116,12 @@
       show "歌a": [歌#sup-xs("a")];
       show "歌e": [歌#sup-xs("e")];
       show "幽i": [幽#sup-xs("i")];
+      show "幽M": [幽#sup-xs("M")];
       show "藥o": [藥#sup-xs("o")];
       show "質d": [質#sup-xs("d")];
       show "質g": [質#sup-xs("g")];
       show "物M": [物#sup-xs("M")];
+      show "文u": [文#sup-xs("u")];
       show "文M": [文#sup-xs("M")];
       show "微M": [微#sup-xs("M")];
       show "脂l": [脂#sup-xs("l")];
