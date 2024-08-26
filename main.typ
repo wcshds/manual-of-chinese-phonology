@@ -112,6 +112,8 @@
       show "宵o": [宵#sup-xs("o")];
       show "真n": [真#sup-xs("n")];
       show "真N": [真#sup-xs("N")];
+      show "眞n": [眞#sup-xs("n")];
+      show "眞N": [眞#sup-xs("N")];
       show "物u": [物#sup-xs("u")];
       show "歌a": [歌#sup-xs("a")];
       show "歌e": [歌#sup-xs("e")];
