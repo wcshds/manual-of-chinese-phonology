@@ -108,6 +108,7 @@
       show "月a": [月#sup-xs("a")];
       show "月e": [月#sup-xs("e")];
       show "月o": [月#sup-xs("o")];
+      show "宵a": [宵#sup-xs("a")];
       show "宵e": [宵#sup-xs("e")];
       show "宵o": [宵#sup-xs("o")];
       show "真n": [真#sup-xs("n")];
@@ -128,6 +129,8 @@
       show "微M": [微#sup-xs("M")];
       show "脂l": [脂#sup-xs("l")];
       show "談o": [談#sup-xs("o")];
+      show "侵u": [侵#sup-xs("u")];
+      show "盍o": [盍#sup-xs("o")];
 
       box(width: 1.5em, 韻部);
     };
