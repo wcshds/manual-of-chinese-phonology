@@ -1,5 +1,11 @@
 [
     {
+        "X-SAMPA": "_n_`",
+        "IPA": "ȵ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
         "X-SAMPA": "_r_t",
         "IPA": "ʳ",
         "Description": "custom addition",

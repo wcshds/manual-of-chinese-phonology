@@ -87,7 +87,7 @@
         }
       }
     };
-    h(0.6em);
+    h(0.75em);
     反切;
     h(0.6em);
     box(width: 5em, 聲韻調等呼);
@@ -130,7 +130,9 @@
       show "脂l": [脂#sup-xs("l")];
       show "談o": [談#sup-xs("o")];
       show "侵u": [侵#sup-xs("u")];
+      show "盍e": [盍#sup-xs("e")];
       show "盍o": [盍#sup-xs("o")];
+      show "緝i": [緝#sup-xs("i")];
 
       box(width: 1.5em, 韻部);
     };
