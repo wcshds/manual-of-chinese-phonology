@@ -121,6 +121,7 @@
       show "物M": [物#sup-xs("M")]
       show "文u": [文#sup-xs("u")]
       show "文M": [文#sup-xs("M")]
+      show "微u": [微#sup-xs("u")]
       show "微M": [微#sup-xs("M")]
       show "脂l": [脂#sup-xs("l")]
       show "談o": [談#sup-xs("o")]
