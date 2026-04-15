@@ -24,8 +24,7 @@
   set text(font: "Simsun")
   it
 }
-#show par: set block(spacing: 0.9em);
-#set par(justify: true, first-line-indent: 2em, leading: 0.9em);
+#set par(justify: true, first-line-indent: 2em, leading: 0.9em, spacing: 0.9em);
 #show text.where(weight: "bold").or(strong): it => {
   show regex("\p{script=Han}+"): set text(stroke: 0.5pt)
   it
