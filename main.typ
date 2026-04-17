@@ -130,6 +130,7 @@
       show "盍e": [盍#sup-xs("e")]
       show "盍o": [盍#sup-xs("o")]
       show "緝i": [緝#sup-xs("i")]
+      show "緝u": [緝#sup-xs("u")]
       show "緝M": [緝#sup-xs("M")]
 
       box(width: 1.5em, 韻部)
