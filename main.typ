@@ -47,6 +47,7 @@
 }
 
 #let count = 1;
+#let zi-count = (:);
 #for info in data {
   let shengfu = info.at(0)
   let shengfu-pinyin = info.at(1).pinyin
@@ -71,13 +72,20 @@
     let 上古音標 = zi.at(5)
     let 註釋 = zi.at(6)
 
+    if 字頭 in zi-count {
+      let origin = zi-count.at(字頭)
+      zi-count.insert(字頭, origin + 1)
+    } else {
+      zi-count.insert(字頭, 1)
+    }
+
     序號
     h(0.45em)
     {
-      [#字頭#label(字頭 + "字")]
+      [#字頭#label(字頭 + "字" + str(zi-count.at(字頭)))]
       if "text" in 註釋.fields() or ("children" in 註釋.fields() and 註釋.children.len() > 1) {
         let a = 註釋.fields()
-        let foot = footnote([#註釋#label(字頭 + "字註")])
+        let foot = footnote([#註釋#label(字頭 + "字註" + str(zi-count.at(字頭)))])
         context {
           let width = measure(foot).width
 
