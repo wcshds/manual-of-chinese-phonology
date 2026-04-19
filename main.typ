@@ -140,6 +140,7 @@
       show "緝i": [緝#sup-xs("i")]
       show "緝u": [緝#sup-xs("u")]
       show "緝M": [緝#sup-xs("M")]
+      show "藥a": [藥#sup-xs("a")]
 
       box(width: 1.5em, 韻部)
     }
