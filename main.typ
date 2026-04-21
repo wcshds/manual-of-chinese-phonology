@@ -1,4 +1,4 @@
-#import "@preview/easy-pinyin:0.1.0": pinyin
+#import "pinyin.typ": pinyin
 #import "phonology-list.typ": data;
 #import "tools/prelude.typ": xs;
 
@@ -57,7 +57,7 @@
     #set align(center);
     #set text(size: 13pt);
 
-    #shengfu #pinyin(shengfu-pinyin);
+    #shengfu #pinyin(shengfu-pinyin.text);
   ]
 
   for zi in zi-list {
@@ -142,6 +142,7 @@
       show "緝M": [緝#sup-xs("M")]
       show "藥a": [藥#sup-xs("a")]
       show "藥e": [藥#sup-xs("e")]
+      show "覺i": [覺#sup-xs("i")]
 
       box(width: 1.5em, 韻部)
     }
