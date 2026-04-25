@@ -1,6 +1,6 @@
 [
     {
-        "X-SAMPA": "_n_`",
+        "X-SAMPA": "n\\",
         "IPA": "ȵ",
         "Description": "custom addition",
         "Examples": ""
@@ -8,6 +8,12 @@
     {
         "X-SAMPA": "_r_t",
         "IPA": "ʳ",
+        "Description": "custom addition",
+        "Examples": ""
+    },
+    {
+        "X-SAMPA": "_u_t",
+        "IPA": "ᵘ",
         "Description": "custom addition",
         "Examples": ""
     },
