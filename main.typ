@@ -137,6 +137,7 @@
       show "侵M": [侵#sup-xs("M")]
       show "盍e": [盍#sup-xs("e")]
       show "盍o": [盍#sup-xs("o")]
+      show "盍a": [盍#sup-xs("a")]
       show "緝i": [緝#sup-xs("i")]
       show "緝u": [緝#sup-xs("u")]
       show "緝M": [緝#sup-xs("M")]
